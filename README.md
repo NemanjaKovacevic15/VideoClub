@@ -1,1 +1,2 @@
-# VideoClub is basic Java app created with Spring Mvc,Hibernate,JSP,CSS on XML based configuration.
+# VideoClub is basic Java application.
+Created with Spring Mvc,Hibernate,JSP,CSS on XML based configuration.
